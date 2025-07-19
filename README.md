@@ -48,7 +48,7 @@ Evaluated multiple regression algorithms to predict tool wear:
 | Random Forest     | 0.01435 | 0.02053 | 0.74364  |
 | XGBoost           | 0.01530 | 0.02140 | 0.72141  |
 | LightGBM          | 0.01552 | 0.02158 | 0.71666  |
-| **CatBoost**      | **0.01461** | **0.02052** | **0.74381** ✅ |
+| **CatBoost**      | **0.01461** | **0.02052** | **0.74381** |
 
 - **Best Model**: CatBoost Regressor
 
