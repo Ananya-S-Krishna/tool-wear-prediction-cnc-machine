@@ -75,6 +75,6 @@ Evaluated multiple regression algorithms to predict tool wear:
 
 ## Future Work
 
-- Real-time sensor data streaming for deployment in manufacturing setups
+- To improve tool life and reduce unplanned machine downtime
 - Model explainability using SHAP
 - Integration with a dashboard using Streamlit
