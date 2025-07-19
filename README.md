@@ -72,9 +72,3 @@ Evaluated multiple regression algorithms to predict tool wear:
 - Scikit-learn, XGBoost, LightGBM, CatBoost
 - Google Colab (GPU runtime)
 - Git & GitHub (project versioning)
-
-## Future Work
-
-- To improve tool life and reduce unplanned machine downtime
-- Model explainability using SHAP
-- Integration with a dashboard using Streamlit
